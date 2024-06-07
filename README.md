@@ -19,7 +19,6 @@
 <a href="https://fb.com/barua.pratoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="barua.pratoy" height="30" width="40" /></a>
 <a href="https://instagram.com/pratoy_barua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratoy_barua" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pratoy16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pratoy16" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@pratoy16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pratoy16" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratoy barua</h1>
 <h3 align="center">Just a student, in the phase of learning....</h3>
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/zOvBKUUEERdNm.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratoy-barua&label=Profile%20views&color=0e75b6&style=flat" alt="pratoy-barua" /> </p>
 
